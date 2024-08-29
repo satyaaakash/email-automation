@@ -9,8 +9,8 @@ from email.mime.multipart import MIMEMultipart
 email_list = pd.read_csv('opsemail.csv')
 
 # Email credentials
-sender_email = "s.obellaneni@ufl.edu"
-sender_password = "Satya@2028"
+sender_email = ""
+sender_password = ""
 smtp_server = "smtp-mail.outlook.com"
 smtp_port = 587
 
